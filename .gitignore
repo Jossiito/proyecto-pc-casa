@@ -4,3 +4,6 @@ tercero.txt
 cambios/*.txt
 #Ignoramos todos los data independientemente de la extension
 data?.*
+#Ignoramos toda la carpeta nuevo
+/nuevo
+
