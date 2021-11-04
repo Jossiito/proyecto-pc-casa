@@ -1,2 +1,5 @@
 #Ignoramos el tercer archivo
 tercero.txt
+#Ignoramos todos los txt de la carpeta cambios
+cambios/*.txt
+
